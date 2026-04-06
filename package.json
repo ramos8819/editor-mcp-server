@@ -1,6 +1,6 @@
 {
   "name": "editor-mcp-server",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "MCP Server for AI automation of the PlayCanvas Editor",
   "main": "src/index.ts",
   "scripts": {
